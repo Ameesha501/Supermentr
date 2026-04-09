@@ -1,0 +1,47 @@
+Assignment: Semantic Meaning
+Objective
+
+The goal of this assignment is to understand semantic similarity, which refers to how closely two words are related in meaning.
+
+What is Semantic Similarity?
+
+Semantic similarity describes the degree to which two words share a similar meaning. Even if the words are not exactly the same, they may still be closely related in context.
+
+For example, words like “happy” and “joyful” have very similar meanings, while words like “happy” and “table” are unrelated.
+
+Five Word Pairs with Explanation
+1. Happy – Joyful
+
+Similarity Level: Very High
+These two words express similar emotions related to happiness and positivity. In many situations, they can be used interchangeably without changing the meaning of a sentence.
+
+2. Big – Large
+
+Similarity Level: Very High
+Both words describe size and are nearly identical in meaning. However, their usage may vary slightly depending on context, such as “big problem” versus “large scale.”
+
+3. Fast – Quick
+
+Similarity Level: High
+Both words relate to speed. “Fast” is more general, while “quick” is often used to describe actions that happen in a short amount of time.
+
+4. Car – Vehicle
+
+Similarity Level: Medium
+A car is a specific type of vehicle. This makes the words related, but not identical. The relationship here is based on category, where one word represents a broader group.
+
+5. Teacher – Student
+
+Similarity Level: Low (but related)
+These words are connected within the context of education. However, they represent different roles, making them less similar in meaning even though they are related.
+
+Summary Table
+Word Pair	Similarity Level	Relationship Type
+Happy – Joyful	Very High	Synonyms
+Big – Large	Very High	Synonyms
+Fast – Quick	High	Near Synonyms
+Car – Vehicle	Medium	Category Relationship
+Teacher – Student	Low	Contextual Relation
+Learning Outcome
+
+Through this assignment, I gained a clear understanding of semantic similarity and how words can be related in different ways. I also learned to identify various types of relationships such as synonyms, near synonyms, category-based connections, and contextual associations. This concept is important in natural language processing, where understanding word meaning plays a key role in tasks like text analysis and machine learning.

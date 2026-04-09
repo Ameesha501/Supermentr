@@ -1,0 +1,30 @@
+2nd March
+
+Assignment Name : ML Idea Generator
+Description : Suggest ML problems in college, healthcare, shopping and describe input → output.
+
+Assignment: ML Idea Generator
+
+College – Student Performance Prediction
+Input: Study hours, attendance, previous marks, assignment scores
+Output: Predicted final exam score or pass/fail prediction
+
+College – Attendance Monitoring System
+Input: Student face images captured through classroom cameras
+Output: Automatic attendance record for each student
+
+Healthcare – Disease Prediction System
+Input: Patient symptoms, age, medical history, test results
+Output: Predicted possible disease or health risk
+
+Healthcare – Medical Image Analysis
+Input: X-ray or MRI scan images
+Output: Detection of abnormalities such as tumors or fractures
+
+Shopping – Product Recommendation System
+Input: User browsing history, previous purchases, ratings
+Output: Personalized product recommendations
+
+Shopping – Price Prediction System
+Input: Product demand, season, competitor prices, past sales data
+Output: Predicted optimal price for a product

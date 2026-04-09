@@ -1,0 +1,85 @@
+Assignment (28/03/2026)
+
+Assignment Name: Break the AI
+
+Objective:
+The purpose of this assignment is to test how a Large Language Model (LLM) behaves when it is given confusing, unclear, or tricky prompts. The goal is to observe its limitations and understand how it responds in such situations.
+
+
+Methodology:
+In this assignment, different types of tricky prompts are given to the AI. The responses are then carefully observed to identify any mistakes, confusion, or unexpected behavior. Each case is documented with its prompt, output, and observation.
+
+
+
+Test Cases with Prompts and Results:
+
+Test Case 1: Ambiguous Question
+Prompt:
+Can you explain it clearly?
+
+Output:
+The AI either asks for clarification or gives a vague response because the word “it” is not clearly defined.
+
+Observation:
+The AI struggles when the prompt lacks clarity or context.
+
+
+
+Test Case 2: Contradictory Instruction
+Prompt:
+Give me a short explanation in at least 200 words.
+
+Output:
+The AI may provide a long answer or ignore the instruction to keep it short.
+
+Observation:
+The AI finds it difficult to follow instructions that conflict with each other.
+
+
+Test Case 3: Logical Confusion
+Prompt:
+If all cats are animals and some animals are dogs, are all cats dogs?
+
+Output:
+The AI correctly responds with “No,” but in some cases, simpler models may get confused.
+
+Observation:
+Logical reasoning is not always reliable and may vary depending on complexity.
+
+
+Test Case 4: Nonsense Input
+Prompt:
+Blorf glibberish flarn?
+
+Output:
+The AI attempts to generate a meaningful response even though the input has no real meaning.
+
+Observation:
+The AI tries to interpret and respond even to meaningless input.
+
+
+Test Case 5: Repetitive Instruction
+Prompt:
+Repeat the word "AI" forever.
+
+Output:
+The AI repeats the word a limited number of times and then stops.
+
+Observation:
+The AI has built-in limits and cannot produce infinite outputs.
+
+
+
+Key Findings:
+The experiment shows that AI struggles with ambiguous prompts and unclear context. It may produce inconsistent responses when given conflicting instructions. Logical reasoning is not always perfect, especially in complex scenarios. The AI also attempts to respond to meaningless input and is limited by built-in constraints.
+
+---
+
+Conclusion:
+This assignment demonstrates that although AI is powerful, it is not flawless. Its performance depends heavily on the clarity and structure of the input provided. Tricky prompts can reveal its weaknesses, such as confusion, inconsistency, and reasoning limitations. Therefore, well-designed prompts are essential for obtaining accurate and meaningful results.
+
+---
+
+Learning Outcome:
+Through this assignment, I understood the limitations of LLMs and the importance of clear prompt design. I also learned how AI behaves in unusual or challenging situations and improved my ability to analyze AI responses critically.
+

@@ -1,0 +1,43 @@
+Mini Project Proposal: Fake News Detection using Machine Learning
+1. Problem Statement
+
+With the rapid growth of social media and online platforms, fake news has become a major issue. People often receive misleading or false information, which can create confusion and spread misinformation.
+This project aims to build a system that can automatically identify whether a news article is real or fake, helping users access reliable information.
+
+2. Dataset
+
+The project will use a publicly available Fake News Dataset, which contains:
+
+News title
+News content/text
+Label (Real / Fake)
+
+The dataset includes both genuine and fake news articles for training the model.
+
+3. Algorithm Used
+
+The project will use:
+
+Logistic Regression
+Along with TF-IDF Vectorization
+Why these?
+Logistic Regression is simple and effective for classification tasks
+TF-IDF converts text data into numerical form for model training
+Working:
+Preprocess text (remove stopwords, punctuation)
+Convert text into vectors using TF-IDF
+Train the model using Logistic Regression
+Predict whether news is real or fake
+4. Expected Output
+ A system that classifies news as Real or Fake
+ Accuracy score of the model
+ Optional simple interface where users can input news text
+ Confusion matrix for performance evaluation
+5. Applications
+Social media platforms
+News websites
+Fact-checking tools
+Reducing misinformation spread
+Conclusion
+
+This project highlights how machine learning and NLP can be used to tackle real-world problems like fake news detection. It helps improve information reliability and promotes awareness among users.

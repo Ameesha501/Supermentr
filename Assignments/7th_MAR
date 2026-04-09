@@ -1,0 +1,31 @@
+7th March
+
+KNN in Real Life
+
+
+Explanation: Netflix-like Recommendations using KNN
+
+K-Nearest Neighbors (KNN) is a simple and powerful machine learning algorithm that works based on similarity. In real life, platforms like Netflix use a similar idea to recommend movies or shows to users. The system compares your watching history, ratings, and preferences with other users. It then finds users who have similar tastes (called “nearest neighbors”). If those similar users liked or watched certain movies that you haven’t seen yet, Netflix recommends those movies to you. This method is called collaborative filtering based on similarity, and KNN helps in identifying the most similar users or content.
+
+KNN works by calculating the distance (similarity) between users or items. The smaller the distance, the more similar they are. Based on the top **K similar users or movies**, the system suggests new content that you are likely to enjoy.
+
+---
+
+Small Similarity Example
+
+Let’s consider a simple example with movie ratings (out of 5):
+
+| User | Action Movie | Comedy Movie | Romance Movie |
+| ---- | ------------ | ------------ | ------------- |
+| A    | 5            | 3            | 1             |
+| B    | 4            | 2            | 1             |
+| C    | 1            | 5            | 4             |
+| You  | 5            | 3            | ?             |
+
+Here, ratings are very similar to **User A** and **User B**.
+Using KNN, the system finds the nearest neighbors (A and B). Since both A and B rated the Romance movie **low (1)**, Netflix will **not strongly recommend Romance movies** to you. Instead, it will recommend more **Action or similar genre movies** that A and B liked.
+
+
+
+KNN helps recommendation systems by finding users or items with similar behavior. This makes suggestions more personalized and useful. Real-world platforms like Netflix, Amazon, and Spotify use similar logic to improve user experience and engagement.
+
